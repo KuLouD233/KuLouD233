@@ -1,0 +1,671 @@
+{
+  "mod_elements": [
+    {
+      "name": "BingXueKuai",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_xue_kuai"
+    },
+    {
+      "name": "DongTu",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dong_tu"
+    },
+    {
+      "name": "JiXueDongTu",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ji_xue_dong_tu"
+    },
+    {
+      "name": "Icefield",
+      "type": "biome",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icefield"
+    },
+    {
+      "name": "北地Wood",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_wood"
+    },
+    {
+      "name": "北地Log",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_log"
+    },
+    {
+      "name": "北地Planks",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_planks"
+    },
+    {
+      "name": "北地Leaves",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_leaves"
+    },
+    {
+      "name": "北地Stairs",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_stairs"
+    },
+    {
+      "name": "北地Slab",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_slab"
+    },
+    {
+      "name": "北地Fence",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_fence"
+    },
+    {
+      "name": "北地FenceGate",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_fence_gate"
+    },
+    {
+      "name": "北地PressurePlate",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_pressure_plate"
+    },
+    {
+      "name": "北地Button",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_button"
+    },
+    {
+      "name": "北地ItemsTag",
+      "type": "tag",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_items_tag"
+    },
+    {
+      "name": "北地WoodRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_wood_recipe"
+    },
+    {
+      "name": "北地PlanksRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_planks_recipe"
+    },
+    {
+      "name": "北地StairsRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_stairs_recipe"
+    },
+    {
+      "name": "北地SlabRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_slab_recipe"
+    },
+    {
+      "name": "北地FenceRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_fence_recipe"
+    },
+    {
+      "name": "北地FenceGateRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_fence_gate_recipe"
+    },
+    {
+      "name": "北地PressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_pressure_plate_recipe"
+    },
+    {
+      "name": "北地ButtonRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_button_recipe"
+    },
+    {
+      "name": "北地StickRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_stick_recipe"
+    },
+    {
+      "name": "YongDongZhiDi",
+      "type": "dimension",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yong_dong_zhi_di",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Ice2",
+      "type": "biome",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_2"
+    },
+    {
+      "name": "Planksmodddd",
+      "type": "tag",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "planksmodddd"
+    },
+    {
+      "name": "Wws",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wws"
+    },
+    {
+      "name": "Wax",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wax"
+    },
+    {
+      "name": "Wpax",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wpax"
+    },
+    {
+      "name": "Whe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whe"
+    },
+    {
+      "name": "Wsv",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wsv"
+    },
+    {
+      "name": "Whe2",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whe_2"
+    },
+    {
+      "name": "Wax2",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wax_2"
+    },
+    {
+      "name": "HanZhanJi",
+      "type": "plant",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "han_zhan_ji"
+    },
+    {
+      "name": "冰晶Ingot",
+      "type": "item",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_ingot"
+    },
+    {
+      "name": "冰晶Ore",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_ore"
+    },
+    {
+      "name": "冰晶Block",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_block"
+    },
+    {
+      "name": "冰晶OreBlockRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_ore_block_recipe"
+    },
+    {
+      "name": "冰晶BlockOreRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_block_ore_recipe"
+    },
+    {
+      "name": "冰晶OreSmelting",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_ore_smelting"
+    },
+    {
+      "name": "冰晶Pickaxe",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_pickaxe"
+    },
+    {
+      "name": "冰晶Axe",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_axe"
+    },
+    {
+      "name": "冰晶Sword",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_sword"
+    },
+    {
+      "name": "冰晶Shovel",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_shovel"
+    },
+    {
+      "name": "冰晶Hoe",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_hoe"
+    },
+    {
+      "name": "冰晶PickaxeRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_pickaxe_recipe"
+    },
+    {
+      "name": "冰晶AxeRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_axe_recipe"
+    },
+    {
+      "name": "冰晶SwordRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_sword_recipe"
+    },
+    {
+      "name": "冰晶ShovelRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_shovel_recipe"
+    },
+    {
+      "name": "冰晶HoeRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_hoe_recipe"
+    },
+    {
+      "name": "冰晶Armor",
+      "type": "armor",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "冰晶ArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_armor_helmet_recipe"
+    },
+    {
+      "name": "冰晶ArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_armor_body_recipe"
+    },
+    {
+      "name": "冰晶ArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_armor_leggings_recipe"
+    },
+    {
+      "name": "冰晶ArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_jing_armor_boots_recipe"
+    },
+    {
+      "name": "Rrawsky",
+      "type": "item",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rrawsky"
+    },
+    {
+      "name": "Ppzhw",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ppzhw"
+    },
+    {
+      "name": "BingFengShiZhuan",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bing_feng_shi_zhuan"
+    },
+    {
+      "name": "Ssz1",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ssz_1"
+    },
+    {
+      "name": "Ssz2",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ssz_2"
+    },
+    {
+      "name": "BeiDiJiangShi",
+      "type": "livingentity",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bei_di_jiang_shi"
+    },
+    {
+      "name": "Sste",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sste"
+    },
+    {
+      "name": "Sshed",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sshed"
+    },
+    {
+      "name": "Ccst",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ccst"
+    },
+    {
+      "name": "Ccftb",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ccftb"
+    },
+    {
+      "name": "IHhighlandice",
+      "type": "biome",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "i_hhighlandice"
+    },
+    {
+      "name": "BBeiDiMuMen",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "b_bei_di_mu_men"
+    },
+    {
+      "name": "Bbddoor",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bbddoor"
+    },
+    {
+      "name": "BbeidiHuoBanMen",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bbeidi_huo_ban_men"
+    },
+    {
+      "name": "Hhbmbd",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hhbmbd"
+    },
+    {
+      "name": "DDu",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_du"
+    },
+    {
+      "name": "HHuanJingSha",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "h_huan_jing_sha"
+    },
+    {
+      "name": "HuanJingShaDi",
+      "type": "biome",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huan_jing_sha_di"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "biome.fd.icefield": "Icefield",
+      "block.fd.bei_di_fence_gate": "北地木栅栏门",
+      "item.fd.bing_jing_sword": "天蓝剑",
+      "block.fd.bei_di_pressure_plate": "北地木压力板",
+      "block.fd.ji_xue_dong_tu": "积雪冻土",
+      "block.fd.bei_di_stairs": "北地木楼梯",
+      "item.fd.rrawsky": "粗天蓝",
+      "block.fd.dong_tu": "冻土",
+      "item.fd.bing_jing_shovel": "天蓝锹",
+      "block.fd.h_huan_jing_sha": "环境沙",
+      "item.fd.bei_di_jiang_shi_spawn_egg": "流髑僵尸 Spawn Egg",
+      "block.fd.bei_di_slab": "北地木台阶",
+      "item.fd.bing_jing_armor_chestplate": "天蓝胸甲",
+      "block.fd.han_zhan_ji": "寒颤棘",
+      "block.fd.bing_feng_shi_zhuan": "冰封石砖",
+      "block.fd.bing_jing_ore": "永冻天蓝矿石",
+      "entity.fd.bei_di_jiang_shi": "流髑僵尸",
+      "block.fd.bei_di_fence": "北地木栅栏",
+      "item.fd.bing_jing_armor_boots": "天蓝靴子",
+      "biome.fd.huan_jing_sha_di": "Huan Jing Sha Di",
+      "block.fd.bei_di_wood": "北地木头",
+      "block.fd.bei_di_log": "北地原木",
+      "item.fd.bing_jing_ingot": "天蓝锭",
+      "block.fd.bing_xue_kuai": "冰封石",
+      "block.fd.bei_di_button": "北地木按钮",
+      "biome.fd.i_hhighlandice": "I Hhighlandice",
+      "block.fd.bei_di_planks": "北地木板",
+      "block.fd.b_bei_di_mu_men": "北地木门",
+      "item.fd.bing_jing_hoe": "天蓝锄",
+      "item.fd.yong_dong_zhi_di": "永冻之石",
+      "biome.fd.ice_2": "Icefield",
+      "block.fd.bing_jing_block": "天蓝块",
+      "item.fd.bing_jing_armor_leggings": "天蓝护腿",
+      "item.fd.bing_jing_armor_helmet": "天蓝头盔",
+      "block.fd.bei_di_leaves": "北地树叶",
+      "item.fd.bing_jing_axe": "天蓝斧",
+      "item.fd.bing_jing_pickaxe": "天蓝镐",
+      "block.fd.bbeidi_huo_ban_men": "北地木活板门"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "fd",
+    "modName": "永冻之地",
+    "version": "1.0.0",
+    "author": "xc, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.fd",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
